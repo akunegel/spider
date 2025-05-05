@@ -12,4 +12,4 @@
 ## Usage
 
 ```bash
-./spider [-rlp] URL
+python3 spider.py [-rlp] URL
